@@ -8,7 +8,7 @@ Movie Tickets System
 
 ## Installation
 
-1. git clone 
+1. git clone https://github.com/ritikbh/movie-system.git
 2. cd /server 
 3. npm i
 4. npm run dev (Starting Node server)
