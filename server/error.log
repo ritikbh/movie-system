@@ -1,0 +1,10 @@
+{
+  message: "Cannot access 'movieList' before initialization",
+  level: 'error',
+  timestamp: '12/12/2021, 12:45:18 AM'
+}
+{
+  message: 'MovieList.findAll is not a function',
+  level: 'error',
+  timestamp: '12/12/2021, 12:46:53 AM'
+}
